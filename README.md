@@ -2,8 +2,7 @@
 ---------------------------------------------------------------------------------------------------------------
 ### 📽️ __LIVE__ __DEMO__ __LINK__ 📽️ __:__ ""
 ---------------------------------------------------------------------------------------------------------------
-### 📄 __PROJECT__ DESCRIPTION 📄 __:__ This project is done to display a E-Commerce Website to view the various 
-products and add to the cart to buy products via this portal.
+### 📄 __PROJECT__ DESCRIPTION 📄 __:__ This project is done to display an customer's data of their registration and login credentials and what products they had bought.
 ---------------------------------------------------------------------------------------------------------------
 ### ⚙️ __REALTIME__ USAGE ⚙️ __:__ 
 ---------------------------------------------------------------------------------------------------------------
